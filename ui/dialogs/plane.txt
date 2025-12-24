@@ -1,0 +1,6 @@
+1: products problems should be solved(add stuck value or inventory , add present in shop value) fifo system also include 
+2: add perchase page in our system 
+3: solve sale page problem like(auto remove from product and perchase) and also price should gate form product not from perchase and gave the total
+    and also we should calculate the profit from sale page both monthly and daily> important 
+4: we should add grass profit and net profit in daily and monthly porfis (grass profit means with expence)&(grass profit - expence)
+5: we should have daily jornal and leadger and the next version of this software 
