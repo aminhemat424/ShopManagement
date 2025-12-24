@@ -4,11 +4,7 @@
 
 1. Python 3.8 or higher
 2. All dependencies installed (from requirements.txt or your environment)
-
-## Building the Executable
-
-
-The executable will be large (50-100MB) because it includes:
+3. 
 - Python runtime
 - PyQt6 libraries
 - All dependencies
@@ -21,4 +17,5 @@ this is the first version of this software
 secound verison is reday for share thanks.............
 
 athur : Aminomer
+
 
